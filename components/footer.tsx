@@ -14,6 +14,13 @@ export function Footer() {
             <p className="text-sm text-muted-foreground text-center lg:text-left">
               AI-native research infrastructure for institutional investors.
             </p>
+            <address className="text-sm text-muted-foreground not-italic text-center lg:text-left leading-relaxed">
+              590 Madison Ave
+              <br />
+              New York
+              <br />
+              NY, 10022
+            </address>
           </div>
 
           {/* Navigation Links */}

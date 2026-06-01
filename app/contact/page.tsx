@@ -322,17 +322,17 @@ export default function ContactPage() {
               {[
                 {
                   title: "General Inquiries",
-                  email: "info@thesisgrid.com",
+                  email: "info@thesisgridcapital.com",
                   description: "For general questions about ThesisGrid",
                 },
                 {
                   title: "Enterprise Sales",
-                  email: "enterprise@thesisgrid.com",
+                  email: "enterprise@thesisgridcapital.com",
                   description: "For enterprise deployment discussions",
                 },
                 {
                   title: "Technical Support",
-                  email: "support@thesisgrid.com",
+                  email: "support@thesisgridcapital.com",
                   description: "For existing customers needing support",
                 },
               ].map((contact) => (
